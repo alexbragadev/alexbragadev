@@ -1,6 +1,6 @@
 ### Olá, me chamo Alex, javeiro, amante de front-end e mobile! 🧑‍💻
 
-### Tecnologias que uso
+### Principais stacks
 
 <div style="display: inline_block">
   </br>
