@@ -1,6 +1,8 @@
-### Oi! 🧑‍💻
+### Olá! 🧑‍💻
 
 ![Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbragadev&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbragadev&layout=compact)
 
 ## Tecnologias que uso
 
