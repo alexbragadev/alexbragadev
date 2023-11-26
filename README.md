@@ -1,4 +1,4 @@
-### Olá! 🧑‍💻
+### Olá, me chamo Alex, javeiro, amante de front-end e mobile! 🧑‍💻
 
 ![Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbragadev&show_icons=true&theme=highcontrast)
 
