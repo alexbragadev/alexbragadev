@@ -1,4 +1,4 @@
-### Olá, me chamo Alex, javeiro, amante de front-end e mobile! 🧑‍💻
+### Olá, me chamo Alex, desenvolvedor Java amante de front-end e mobile! 🧑‍💻
 
 ### Principais stacks
 
